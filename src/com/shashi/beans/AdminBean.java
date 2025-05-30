@@ -53,6 +53,7 @@ public class AdminBean implements Serializable {
 	public void setPhNo(long phNo) {
 		this.phNo = phNo;
 	}
+	
 
 	public long getPhNo() {
 		return phNo;
