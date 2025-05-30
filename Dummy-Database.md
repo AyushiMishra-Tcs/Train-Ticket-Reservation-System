@@ -1,6 +1,5 @@
 ### Just open the Oracle sql command prompt and login to administrator user and copy paste the following codes for creating dummy database:
 
-```SQL
 ALTER SESSION SET "_ORACLE_SCRIPT"=TRUE;  
 
 CREATE USER RESERVATION IDENTIFIED BY MANAGER;
@@ -71,4 +70,5 @@ INSERT INTO RESERVATION.HISTORY VALUES('BBC375-NSDF-4675','shashi@demo.com',1000
 INSERT INTO RESERVATION.HISTORY VALUES('BBC373-NSDF-4674','shashi@demo.com',10006,TO_DATE('22-JULY-2024'), 'PATNA', 'DELHI', 3, 4352.25);
 
 COMMIT;
-```
+
+
