@@ -131,7 +131,7 @@ COMMIT;
 ### ====== Importing and Running the Project Through Eclipse EE ===========
 Step 0: Open Eclipse Enterprise Edition. [Install if not available]
 
-Step 1: Click On File > Import > Git > Projects From Git > Clone Uri  > Paste The Repository Url: ```https://github.com/shashirajraja/Train-Ticket-Reservation-System.git``` > Next > Select Master Branch > Next > Finish
+Step 1: Click On File > Import > Git > Projects From Git > Clone Uri  > Paste The Repository Url: ```https://github.com/AyushiMishra-Tcs/Train-Ticket-Reservation-System.git``` > Next > Select Master Branch > Next > Finish
 
 Step 2: Right Click On Project > Build Path > Configure Build Path > Libraries > Remove And Update Any Libraries With Red Mark > Finish
 
@@ -146,7 +146,6 @@ Step 6: Check Running The Site At  <a Href="Http://localhost:8083/trainbook/">ht
 Step 7: Default Username And Password For Admin Is "admin@demo.com" And "admin"
 
 Step 8: Default Username And Password For User Is "shashi@demo.com" And "shashi"
-
 
 
 ### The Screenshots of some of the  webPages of this project are Here:
@@ -192,6 +191,3 @@ Step 8: Default Username And Password For User Is "shashi@demo.com" And "shashi"
 <img src="https://github.com/shashirajraja/Train-Ticket-Reservation-System/blob/master/Screenshots/TicketBook.png" width="100%">
 
 
-#### "Suggestions and project Improvement are Invited"
-#### Shashi Raj
-##### Project Leader
