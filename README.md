@@ -1,7 +1,4 @@
 # TrainBooking Website
-- Youtube video for local setup of similar project: https://www.youtube.com/watch?v=mLFPodZO8Iw&t=8s
-- Live Url: https://traintickets.herokuapp.com <br>
-- Login Credentials: admin/admin
 
 ### About:
 This project is about the Train-Ticket-Reservation-System which is used to view Train Schedule, search trains, Seat availability, Train timings. We can also enquire about fare of different trains. We can get information about train between two stations. We can book seats online. This provides a safe and secure seat reservation system. 
@@ -50,12 +47,6 @@ This project is about the Train-Ticket-Reservation-System which is used to view 
 - Servlet
 - Oracle ( SQL )
 
-### ==== Software And Tools Required ======
-- : Oracle SQL
-- : Eclipse EE
-- : Java JDK 8+
-- : Tomcat v8.0
-- 
 ### ========== Dummy Database Initialization ===========
 
 STEP 1: Open Oracle Sql Command Line
